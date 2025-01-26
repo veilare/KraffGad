@@ -379,10 +379,6 @@ nav ul {
     gap: 20px;
   }
 
-  .header .social-links {
-    display: none;
-  }
-
   body {
     background-position: top center;
   }
