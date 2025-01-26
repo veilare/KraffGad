@@ -365,6 +365,7 @@ nav ul {
     width: fit-content;
     text-wrap: nowrap;
     padding: 0px 10px;
+    bottom: 50px;
   }
 
   .container {
