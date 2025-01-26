@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap");
 body {
-  background-image: url("../assets/Kraff-2-scaled-e1668716162827.jpg");
+  background-image: url("./assets/Kraff-2-scaled-e1668716162827.jpg");
   background-size: cover;
   margin: 0;
   height: 100vh;
