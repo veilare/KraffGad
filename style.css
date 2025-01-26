@@ -45,7 +45,7 @@ a:hover {
   display: flex;
   margin: 0;
   color: #d8d7d7;
-  height: 100vh;
+  height: 100%;
   overflow-x: hidden
 }
 
