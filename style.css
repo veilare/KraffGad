@@ -4,11 +4,12 @@ body {
   background-image: url("./assets/Kraff-2-scaled-e1668716162827.jpg");
   background-size: cover;
   margin: 0;
-  height: 100vh;
+  height: 100svh;
   font-size: large;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   color: #d8d7d7;
+  overflow: hidden;
 }
 
 li {
@@ -45,14 +46,8 @@ a:hover {
   margin: 0;
   color: #d8d7d7;
   height: 100vh;
+  overflow-x: hidden
 }
-
-/* .v-cont {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-} */
 
 main {
   flex: 1;
