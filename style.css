@@ -299,6 +299,7 @@ nav ul {
 
   .crd {
     font-family: poppins;
+    bottom: 30px;
   }
   body {
     font-size: medium;
@@ -361,7 +362,6 @@ nav ul {
     width: fit-content;
     text-wrap: nowrap;
     padding: 0px 10px;
-    bottom: 50px;
   }
 
   .container {
